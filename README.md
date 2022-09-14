@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# e-Nvernadero Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto hecho en REACTJS [Create React App](https://github.com/facebook/create-react-app).
+
+E-Comerce de compra de plantas de interiores y exteriores.
+
+===========================================================================================================================
 
 ## Available Scripts
 
