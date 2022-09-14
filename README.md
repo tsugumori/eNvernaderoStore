@@ -1,2 +1,2 @@
 # eNvernaderoStore
-Repositorio de App de proyecto Cdor en REACTJS
+Plataforma de e-Comerce para la venta de platas para interiores y exteriores
