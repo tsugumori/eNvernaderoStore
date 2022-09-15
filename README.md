@@ -1,2 +1,2 @@
 # eNvernaderoStore
-Plataforma de e-Comerce para la venta de platas para interiores y exteriores
+Plataforma de e-Commerce para la venta de platas para interiores y exteriores
