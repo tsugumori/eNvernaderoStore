@@ -2,7 +2,7 @@
 
 Proyecto hecho en REACTJS [Create React App](https://github.com/facebook/create-react-app).
 
-E-Comerce de compra de plantas de interiores y exteriores.
+E-Commerce de compra de plantas de interiores y exteriores.
 
 ==================================================================
 
