@@ -14,3 +14,15 @@ Button{
     margin: 2px;
     padding: 4px;
 }
+
+.row{
+    margin-top: 20px;
+    width: 280px;
+}
+
+#contador{
+    padding: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-weight: bold;
+}

@@ -24,9 +24,7 @@ const ItemListContainer = ({ greeting }) => {
 
     return ( 
         <Container>
-            <h2 className="greeting">{ greeting }</h2>
-            <br/>
-            <h2>{ categoryId }</h2>
+            <div className="greeting">{ greeting } { categoryId }</div>
             <ItemList products={products} />
         </Container>
      );
